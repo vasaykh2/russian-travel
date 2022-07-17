@@ -1,0 +1,11 @@
+.lead__illustration {
+  width: 100%;
+  display: block;
+  margin: 0;
+}
+
+@media (max-width: 770px) {
+  .lead__illustration {
+    width: 100%;
+  }
+}
