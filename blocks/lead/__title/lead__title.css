@@ -20,7 +20,6 @@
 
 @media (max-width: 700px) {
   .lead__title {
-    max-width: 90%;
     font-size: 74px;
     line-height: 78px;
   }
@@ -28,7 +27,6 @@
 
 @media (max-width: 600px) {
   .lead__title {
-    max-width: 90%;
     font-size: 64px;
     line-height: 68px;
   }
@@ -36,7 +34,6 @@
 
 @media (max-width: 500px) {
   .lead__title {
-    max-width: 90%;
     font-size: 54px;
     line-height: 58px;
   }
@@ -44,7 +41,6 @@
 
 @media (max-width: 430px) {
   .lead__title {
-    max-width: 90%;
     font-size: 40px;
     line-height: 44px;
   }
