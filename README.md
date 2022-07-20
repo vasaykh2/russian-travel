@@ -33,3 +33,5 @@
 Файл .nojekyll размещен с целью корректной публикации в pages на GitHub.
 
 Файл .editorconfig содержит установки для приложения VS Code.
+
+Ссылка на "Путешествие по России" в GitHub Pages: https://vasaykh2.github.io/russian-travel/.
