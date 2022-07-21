@@ -6,36 +6,29 @@
   line-height: 22px;
   color: #fff;
   text-align: center;
-  margin: 0 0 245px;
+  margin: 0;
   position: relative;
   z-index: 2;
 }
 
-@media (max-width: 1024px) {
-  .cover__subtitle {
-    margin-bottom: 195px;
-  }
-}
-
-@media (max-width: 768px) {
-  .cover__subtitle {
-    margin-bottom: 115px;
-  }
-}
-
-@media (max-width: 600px) {
+@media (max-width: 700px) {
   .cover__subtitle {
     font-size: 16px;
     line-height: 18px;
-    margin-bottom: 80px;
   }
 }
 
-@media (max-width: 430px) {
+@media (max-width: 560px) {
+  .cover__subtitle {
+    font-size: 15px;
+    line-height: 17px;
+  }
+}
+
+@media (max-width: 350px) {
   .cover__subtitle {
     max-width: 90%;
     font-size: 14px;
     line-height: 16px;
-    margin-bottom: 33px;
   }
 }

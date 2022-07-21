@@ -1,28 +1,28 @@
 .intro {
-  max-width: 690px;
+  max-width: calc(100% - 2 * 148px);
   display: flex;
   flex-direction: column;
   align-items: start;
   color: #fff;
-  margin: 92px 148px;
+  margin: 92px auto;
 }
 
 @media (max-width: 1024px) {
   .intro {
-    margin: 92px 48px;
+    max-width: calc(100% - 2 * 48px);
   }
 }
 
 @media (max-width: 768px) {
   .intro {
-    max-width: 720px;
-    margin: 88px 24px;
+    max-width: calc(100% - 2 * 24px);
+    margin: 88px auto;
   }
 }
 
 @media (max-width: 320px) {
   .intro {
-    max-width: 288px;
-    margin: 64px 16px;
+    max-width: calc(100% - 2 * 16px);
+    margin: 64px auto;
   }
 }
