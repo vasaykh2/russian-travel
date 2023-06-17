@@ -28,3 +28,4 @@ HTML-часть проекта валидирована.
 Файл .editorconfig содержит установки VS Code.
 
 * [Ссылка на "Путешествия по России" в GitHub Pages] (https://vasaykh2.github.io/russian-travel/)
+* [Ссылка в vercel.com] (https://russian-travel-liart.vercel.app/)  
